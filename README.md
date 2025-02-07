@@ -1,4 +1,14 @@
 # Decision Trees: Hands-On Exercises from HOML (Chapter 6)
+## Table of Contents
+- [Project Goal](#project-goal)
+- [Exercises](#exercises)
+- [Solution Details](#solution-details)
+- [Notebooks](#📒-notebooks)
+- [Tech Stack](#💻-tech-stack)
+- [Lessons Learnt](#🏫-lessons-learnt)
+- [About Me](#🚀-about-me)
+- [Links](#🔗-links)
+- [Skills](#🛠-skills)
 
 ## 🎯 Project Goal
 The main goal of this project is to practice and solve exercise problems from `Chapter 6 - Decision Trees` in `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow`. This project aims to deepen understanding of decision tree algorithms, hyperparameter tuning, and ensemble learning by implementing practical exercises.
